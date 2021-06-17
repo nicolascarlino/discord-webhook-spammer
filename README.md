@@ -10,7 +10,7 @@ Add ProggyFont to your Windows Fonts
 
 # Gui 🎆
   <p align=center>
-      <image src="https://cdn.discordapp.com/attachments/853496853160001576/854903424909836288/unknown.png"> 
+      <image src="https://cdn.discordapp.com/attachments/853496853160001576/855097728626851850/unknown.png"> 
   <p/>
 
   
